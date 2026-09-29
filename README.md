@@ -2,7 +2,8 @@
 
 ## Why I built this
 
-I have Tier 1 help desk experience from Wells Fargo, along with several years supporting MSP clients on the sales and recruiting side, and I'm working toward a full-time IT Help Desk role with the long-term goal of moving into Systems Administration and Network Engineering. To build on that experience, I set up a real Microsoft 365 tenant and worked through the kind of admin tasks that come up daily on a help desk: creating users, managing groups, and setting up security and device management policies.
+I have Tier 1 help desk experience from Wells Fargo, along with several years supporting MSP clients on the sales and recruiting side, and I'm working toward a full-time IT Help Desk role with the long-term goal of moving into Systems Administration and Network Engineering. To build on that experience. So instead of just saying I understand this stuff, I set up a real Microsoft 365 tenant and did the actual admin work help desk techs handle day to day: creating users, managing groups, and setting up a security policy.
+
 
 ## What's in here
 
